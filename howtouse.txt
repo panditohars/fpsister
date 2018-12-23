@@ -1,0 +1,9 @@
+to start zatt :
+- install zattd
+- run zattd -c zatt.conf -s zatt.<node_number>.persist -c <port_of_node>
+
+to start web server :
+- install flask python
+- run " python3 tes.py "
+- web command on the code
+
